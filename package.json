@@ -1,0 +1,29 @@
+{
+  "name": "react-native-lex-coldupdate",
+  "version": "1.0.0",
+  "description": "安卓冷更新",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native",
+    "coldupdate",
+    "appupdate"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lexoops/react-native-lex-coldupdate.git"
+  },
+  "author": "lexlee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lexoops/react-native-lex-coldupdate/issues"
+  },
+  "dependencies": {
+    "@ant-design/react-native": "^4.0.5",
+    "react-native": "^0.63.2",
+    "react-native-permissions": "^2.2.0",
+    "prop-types": "latest"
+  }
+}

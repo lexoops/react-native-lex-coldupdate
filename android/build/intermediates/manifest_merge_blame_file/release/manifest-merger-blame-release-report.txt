@@ -1,0 +1,45 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.lex.coldupdate"
+4    android:versionCode="2"
+5    android:versionName="1.1" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="16"
+8-->D:\GIT\wmapp\app\components\LEX-ColdUpdate\android\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="26" />
+9-->D:\GIT\wmapp\app\components\LEX-ColdUpdate\android\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.BLUETOOTH" />
+11-->D:\GIT\wmapp\app\components\LEX-ColdUpdate\android\src\main\AndroidManifest.xml:3:5-68
+11-->D:\GIT\wmapp\app\components\LEX-ColdUpdate\android\src\main\AndroidManifest.xml:3:22-65
+12    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+12-->D:\GIT\wmapp\app\components\LEX-ColdUpdate\android\src\main\AndroidManifest.xml:4:5-79
+12-->D:\GIT\wmapp\app\components\LEX-ColdUpdate\android\src\main\AndroidManifest.xml:4:22-76
+13    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+13-->D:\GIT\wmapp\app\components\LEX-ColdUpdate\android\src\main\AndroidManifest.xml:5:5-81
+13-->D:\GIT\wmapp\app\components\LEX-ColdUpdate\android\src\main\AndroidManifest.xml:5:22-78
+14    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+14-->D:\GIT\wmapp\app\components\LEX-ColdUpdate\android\src\main\AndroidManifest.xml:6:5-74
+14-->D:\GIT\wmapp\app\components\LEX-ColdUpdate\android\src\main\AndroidManifest.xml:6:22-71
+15    <uses-permission android:name="android.permission.INTERNET" />
+15-->D:\GIT\wmapp\app\components\LEX-ColdUpdate\android\src\main\AndroidManifest.xml:7:5-67
+15-->D:\GIT\wmapp\app\components\LEX-ColdUpdate\android\src\main\AndroidManifest.xml:7:22-64
+16    <uses-permission android:name="android.permission.CHANGE_NETWORK_STATE" />
+16-->D:\GIT\wmapp\app\components\LEX-ColdUpdate\android\src\main\AndroidManifest.xml:8:5-79
+16-->D:\GIT\wmapp\app\components\LEX-ColdUpdate\android\src\main\AndroidManifest.xml:8:22-76
+17    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+17-->D:\GIT\wmapp\app\components\LEX-ColdUpdate\android\src\main\AndroidManifest.xml:9:5-79
+17-->D:\GIT\wmapp\app\components\LEX-ColdUpdate\android\src\main\AndroidManifest.xml:9:22-76
+18    <uses-permission android:name=" android.permission.REQUEST_INSTALL_PACKAGES" />
+18-->D:\GIT\wmapp\app\components\LEX-ColdUpdate\android\src\main\AndroidManifest.xml:10:5-84
+18-->D:\GIT\wmapp\app\components\LEX-ColdUpdate\android\src\main\AndroidManifest.xml:10:22-81
+19    <uses-permission android:name="android.permission.REQUEST_INSTALL_PACKAGES" />
+19-->D:\GIT\wmapp\app\components\LEX-ColdUpdate\android\src\main\AndroidManifest.xml:11:5-83
+19-->D:\GIT\wmapp\app\components\LEX-ColdUpdate\android\src\main\AndroidManifest.xml:11:22-80
+20
+21    <application>
+21-->D:\GIT\wmapp\app\components\LEX-ColdUpdate\android\src\main\AndroidManifest.xml:13:5-15:19
+22    </application>
+23
+24</manifest>
